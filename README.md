@@ -1,0 +1,2 @@
+# latihan
+contoh 1
